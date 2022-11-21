@@ -1,6 +1,6 @@
 ﻿namespace Projekt_DBA_SWE_PGA2
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,14 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1257, 750);
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(5);
+            this.Name = "MainForm";
+            this.Text = "MainFormTitle";
             this.ResumeLayout(false);
 
         }
